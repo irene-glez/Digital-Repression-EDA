@@ -7,24 +7,13 @@ Thank you for taking an interest in my project 🙂
 
 In this project I've worked with:
 
-![python]https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-![pandas]https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-![numpy]https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-![VSC]https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-
 Python 🐍 ·  Pandas 🐼 ·  Numpy 🧮 ·  Matplotlib 📈 ·  Seaborn 📉 ·  Plotly 📊 ·  Tableau  📈
 
 
 
-
-# Digital Repression  & Political Regimes : A Global Panorama
+# Digital Repression & Political Regimes : A Global Panorama
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 ### Hypothesis
 
