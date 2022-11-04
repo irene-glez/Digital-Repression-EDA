@@ -1,13 +1,30 @@
 # Digital Repression and Democracy EDA
-A look at the state of digital repression in the world from an Exploratory Data Analysis.
+A look at the state of digital repression and its relation with the political regimes in the world from an Exploratory Data Analysis.
 
 ### Welcome!
 
 Thank you for taking an interest in my project 🙂
 
+In this project I've worked with:
+
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+Python 🐍 ·  Pandas 🐼 ·  Numpy 🧮 ·  Matplotlib 📈 ·  Seaborn 📉 ·  Plotly 📊 ·  Tableau  
+
+
+
+
 # Digital Repression  & Political Regimes : A Global Panorama
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ### Hypothesis
 
@@ -47,5 +64,14 @@ We then have 4 types of regimes:
 - closed autocracies (CA)
 
 ![img](src/img/regimens.png "Title")
+
+# Count of countries according to their type of regime
+
+We have 179 countries in the dataset (currently there are 193, but 14 have limited international recognition).
+However, it does seem to us a significant sample space, although discouraging: more than half of the countries are not democracies.
+
+![img](src/img/map.jpg)
+
+# Let's look at the Indices of Democracy and Repression of all countries:
 
 ![img](src/img/global_plotly.png)
