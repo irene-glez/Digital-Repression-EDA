@@ -10,9 +10,7 @@ In this project I've worked with:
 Python 🐍 ·  Pandas 🐼 ·  Numpy 🧮 ·  Matplotlib 📈 ·  Seaborn 📉 ·  Plotly 📊 ·  Tableau  📈
 
 
-<img src="title.jpg"> 
-
-# Digital Repression & Political Regimes : A Global Panorama
+![img](src/img/title.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,9 +33,7 @@ https://www.v-dem.net/
 
 # The 4 types of regimes
 
-
-- Factors to measure the democracy index 'V-Dem Democracy Index':
-The index is based on two principles: electoral and liberal.
+- Factors to measure the democracy index 'V-Dem Democracy Index': the index is based on two principles:
 
 'Electoral' refers to how representative the system is, taking into account whether the elections are fair and free, and whether there are independent media in the country in question.
 
@@ -55,13 +51,18 @@ We then have 4 types of regimes:
 
 ![img](src/img/regimens.png)
 
-# Count of countries according to their type of regime
+# World map according to regime
 
 We have 179 countries in the dataset (currently there are 193, but 14 have limited international recognition).
 However, it does seem to us a significant sample space, although discouraging: more than half of the countries are not democracies.
 
 ![img](src/img/map.jpg)
 
-# Let's look at the Indices of Democracy and Repression of all countries:
+
+
+# Indices of Democracy and Repression of all countries
 
 ![img](src/img/global_plotly.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
