@@ -10,6 +10,7 @@ In this project I've worked with:
 Python 🐍 ·  Pandas 🐼 ·  Numpy 🧮 ·  Matplotlib 📈 ·  Seaborn 📉 ·  Plotly 📊 ·  Tableau  📈
 
 
+<img src="title.jpg"> 
 
 # Digital Repression & Political Regimes : A Global Panorama
 
@@ -52,7 +53,7 @@ We then have 4 types of regimes:
 - electoral autocracies (EA)
 - closed autocracies (CA)
 
-![img](src/img/regimens.png "Title")
+![img](src/img/regimens.png)
 
 # Count of countries according to their type of regime
 
