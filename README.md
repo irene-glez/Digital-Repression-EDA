@@ -88,7 +88,9 @@ Digital repression is measured with 8 variables, distributed in 5 categories:
 ![img](src/img/digrepvar.jpg)
 
 
-# Interested? Please visit https://github.com/irene-glez/Digital-Repression-EDA/blob/main/src/notebooks/eda.ipynb
+# Do you want to discover more? 
+
+Please visit https://github.com/irene-glez/Digital-Repression-EDA/blob/main/src/notebooks/eda.ipynb
 
 
 Many Thanks!
