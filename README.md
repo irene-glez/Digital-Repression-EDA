@@ -9,7 +9,7 @@ In this project I've worked with:
 
 Python 🐍  ·  Pandas 🐼  ·  Numpy 🧮  ·  Matplotlib 📈  ·  Seaborn 📉  ·  Plotly 📊  ·  Tableau  📈
 
-i hope you enjoy my work as I have while doing it!
+I hope you enjoy my work as I have while doing it!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
