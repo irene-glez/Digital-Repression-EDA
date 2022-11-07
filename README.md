@@ -85,10 +85,12 @@ Digital repression is measured with 8 variables, distributed in 5 categories:
 - social networks
 5. Arrests of users for posting political content on the network.
 
-![img](src/img/repression_variables.jpg)
+![img](src/img/digrepvar.jpg)
 
 
-# 
+# Interested? Please visit https://github.com/irene-glez/Digital-Repression-EDA/blob/main/src/notebooks/eda.ipynb
 
+
+Many Thanks!
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
