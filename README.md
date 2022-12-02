@@ -52,7 +52,7 @@ We then have 4 types of regimes:
 - Closed Autocracies (**CA**)
 
 ![img](src/img/regimens.png)
-
+from https://www.v-dem.net/
 
 
 # World map according to regime
