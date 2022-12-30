@@ -64,11 +64,6 @@ However, it does seem to us a significant sample space, although discouraging: m
 
 
 
-# Indices of Democracy and Repression of all countries
-
-![img](src/img/global_plotly.png)
-
-
 # Variables for measuring digital repression
 
 Digital repression is measured with 8 variables, distributed in 5 categories:
