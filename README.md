@@ -55,12 +55,12 @@ We then have 4 types of regimes:
 from https://www.v-dem.net/
 
 
-# World map according to regime
+# Tableau Dashbard
 
 We have 179 countries in the dataset (currently there are 193, but 14 have limited international recognition).
 However, it does seem to us a significant sample space, although discouraging: more than half of the countries are not democracies.
 
-![img](src/img/map_leyend.jpg)
+https://public.tableau.com/app/profile/irene2545/viz/DigitalRepressionandDemocracy2022/Dashboard1
 
 
 
