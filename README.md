@@ -33,6 +33,8 @@ Varieties of Democracy (V-Dem),
 https://www.v-dem.net/
 
 
+# Tableau Dashboard : https://public.tableau.com/app/profile/irene2545/viz/DigitalRepressionandDemocracy2022/Dashboard1
+
 
 # The 4 types of regimes
 
@@ -53,15 +55,6 @@ We then have 4 types of regimes:
 
 ![img](src/img/regimens.png)
 from https://www.v-dem.net/
-
-
-# Tableau Dashbard
-
-We have 179 countries in the dataset (currently there are 193, but 14 have limited international recognition).
-However, it does seem to us a significant sample space, although discouraging: more than half of the countries are not democracies.
-
-https://public.tableau.com/app/profile/irene2545/viz/DigitalRepressionandDemocracy2022/Dashboard1
-
 
 
 # Variables for measuring digital repression
